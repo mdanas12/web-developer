@@ -1,0 +1,41 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 60px;
+    color: crimson;
+}
+h2{
+    font-size: 30px;
+    text-transform: capitalize;
+}
+.hi{
+    color: blue;
+    font-size: 40px;
+}
+.mango{
+    display: flex;
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
+.apple{
+    margin-left: 20px;
+    width: 50%;
+}
+div img{
+    padding: 10px;
+}
+.hello{
+    text-decoration: none;
+    font-size: 25px;
+    background-image: linear-gradient(black,blue);
+    padding: 15px;
+    color: cyan;
+    text-transform: capitalize;
+    border-radius: 8px;
+}
+.new{
+    margin-top: 100px;
+    display: flex;
+}
