@@ -74,3 +74,8 @@ div img{
      color: darkmagenta;
      margin-left: 20px;
  }
+ .aa{
+     font-size: 30px;
+     color: red;
+     text-transform: capitalize;
+ }
