@@ -38,6 +38,9 @@ div img{
 .new{
     margin-top: 100px;
     display: flex;
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
 .rok{
     color: crimson;
