@@ -46,3 +46,31 @@ div img{
     color: crimson;
     font-size: 50px;
 }
+ .hello-world{
+     display: flex;
+     margin-left: 20px;
+ }
+ .ko-ko{
+     width: 40%;
+     padding: 3%;
+     box-shadow: 12px 12px 30px red; 
+     margin-left: 5%;
+     margin-right: 5%;
+     margin-bottom: 60px;
+ }
+ #momo{
+     border-left: 10px solid;
+     border-image: linear-gradient(red,blue);
+     border-image-slice: 1;
+ }
+ .my-area{
+     background-image: url(exp-bg.png);
+     background-repeat: no-repeat;
+     background-position: left;
+ }
+ .radio{
+     text-transform: capitalize;
+     font-size: 45px;
+     color: darkmagenta;
+     margin-left: 20px;
+ }
